@@ -1,6 +1,6 @@
-# map README.md, 4
+# map README.md, 2
 
-## sorted: False
+## sorted: True
 
 
 ## legend:
@@ -9,13 +9,8 @@
 |---|---|
 | :footprints: | :green_heart: |
 
-> extra
->
-| projects | tutorial | course |
-|---|---|---|
-| :cyclone: | :floppy_disk: | :whale: |
 
-1. # Learn [`here`](./https§§§www.kaggle.com§learn/readme.md) :footprints::pushpin:
-1. # Intro to Programming [`here`](./https§§§www.kaggle.com§learn§intro-to-programming/readme.md) :green_heart::pushpin:
-1. # Python [`here`](./https§§§www.kaggle.com§learn§python/readme.md) :footprints::pushpin:
-1. # Hello, Python [`here`](./https§§§www.kaggle.com§code§colinmorris§hello-python/readme.md) :footprints::pushpin:
+
+
+1. # Learn [`here`](./https§§§www.kaggle.com§learn/readme.md) :footprints:
+1. # <https§§§www.kaggle.com§learn§python> [`here`](./https§§§www.kaggle.com§learn§python/readme.md) :footprints:
