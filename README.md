@@ -13,4 +13,4 @@
 
 
 1. # Learn [`here`](./https§§§www.kaggle.com§learn/readme.md) :footprints:
-1. # <https§§§www.kaggle.com§learn§python> [`here`](./https§§§www.kaggle.com§learn§python/readme.md) :footprints:
+1. # <https§§§www.kaggle.com§learn§python> [`here`](./https§§§www.kaggle.com§learn§python/readme.md) :green_heart:
