@@ -14,6 +14,10 @@
 [readme1](./readme1.ipynb)
 [exercise1](./exercise1.ipynb)
 
-## 2 : Summary Functions and Maps
+## 2 Summary Functions and Maps
 [readme2](./readme2.ipynb)
 [exercise2](./exercise2.ipynb)
+
+## 3 Grouping and Sorting
+[readme3](./readme3.ipynb)
+[exercise3](./exercise3.ipynb)
