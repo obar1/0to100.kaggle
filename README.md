@@ -1,4 +1,4 @@
-# map README.md, 2
+# map README.md, 3
 
 ## sorted: True
 
@@ -14,3 +14,4 @@
 
 1. # Learn [`here`](./https§§§www.kaggle.com§learn/readme.md) :footprints:
 1. # <https§§§www.kaggle.com§learn§python> [`here`](./https§§§www.kaggle.com§learn§python/readme.md) :green_heart:
+1. # pandas [`here`](./https§§§www.kaggle.com§learn§pandas/readme.md) :footprints:
