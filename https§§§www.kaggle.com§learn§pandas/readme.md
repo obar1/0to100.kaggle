@@ -21,3 +21,11 @@
 ## 3 Grouping and Sorting
 [readme3](./readme3.ipynb)
 [exercise3](./exercise3.ipynb)
+
+## 4 Data Types and Missing Values
+[readme4](./readme4.ipynb)
+[exercise4](./exercise4.ipynb)
+
+## 5 Renaming and Combining
+[readme5](./readme5.ipynb)
+[exercise5](./exercise5.ipynb)
