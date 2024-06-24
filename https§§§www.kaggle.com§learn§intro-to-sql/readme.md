@@ -17,3 +17,11 @@
 [readme1](./readme1.ipynb)
 ![alt text](image-3.png)
 [exercise1](./exercise1.ipynb)
+
+
+## More 
+
+[here](./Group_By_Having_Count.ipynb)
+[here](./AsWith.ipynb)
+[here](./Joining_Data.ipynb)
+[here](./Order_By.ipynb)
