@@ -3,25 +3,28 @@
 
 # https://www.kaggle.com/learn/intro-to-sql
 
-![alt text](image.png)
-
-)
+![alt text](image-4.png)
 
 ## 0 Getting Started With SQL and BigQuery
 [readme0](./readme0.ipynb)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-[exercise0](./exercise0.ipynb)
-
-## 1 Select, From & Where
-[readme1](./readme1.ipynb)
 ![alt text](image-3.png)
-[exercise1](./exercise1.ipynb)
-
 
 ## More 
 
-[here](./Group_By_Having_Count.ipynb)
-[here](./AsWith.ipynb)
-[here](./Joining_Data.ipynb)
-[here](./Order_By.ipynb)
+```
+as-with.ipynb
+getting-started-with-sql-and-bigquery.ipynb
+group-by-having-count.ipynb
+joining-data.ipynb
+order-by.ipynb
+select-from-where.ipynb
+
+exercise-as-with.ipynb
+exercise-getting-started-with-sql-and-bigquery.ipynb
+exercise-group-by-having-count.ipynb
+exercise-joining-data.ipynb
+exercise-order-by.ipynb
+exercise-select-from-where.ipynb
+```
