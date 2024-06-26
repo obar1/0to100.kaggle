@@ -1,7 +1,6 @@
 # <https§§§www.kaggle.com§learn§data-cleaning>
 > <https://www.kaggle.com/learn/data-cleaning>
 
-# Data Cleaning
 
 ![](image.png)
 
