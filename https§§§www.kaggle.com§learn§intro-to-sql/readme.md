@@ -1,7 +1,7 @@
 # <https§§§www.kaggle.com§learn§intro-to-sql>
 > <https://www.kaggle.com/learn/intro-to-sql>
 
-# https://www.kaggle.com/learn/intro-to-sql
+# Intro to SQL
 
 ![alt text](image-4.png)
 
