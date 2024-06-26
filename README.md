@@ -1,4 +1,4 @@
-# map README.md, 6
+# map README.md, 7
 
 ## sorted: True
 
@@ -18,3 +18,4 @@
 1. # Intro to SQL [`here`](./https§§§www.kaggle.com§learn§intro-to-sql/readme.md) :footprints:
 1. # Advanced SQL [`here`](./https§§§www.kaggle.com§learn§advanced-sql/readme.md) :green_heart:
 1. # Intro to Machine Learning [`here`](./https§§§www.kaggle.com§learn§intro-to-machine-learning/readme.md) :green_heart:
+1. # <https§§§www.kaggle.com§learn§data-cleaning> [`here`](./https§§§www.kaggle.com§learn§data-cleaning/readme.md) :footprints:
