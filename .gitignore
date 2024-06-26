@@ -27,3 +27,4 @@ safaribooks/
 build
 /dist
 *.egg-info
+*.*Zone.Identifier

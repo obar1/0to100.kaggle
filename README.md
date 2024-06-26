@@ -1,4 +1,4 @@
-# map README.md, 4
+# map README.md, 5
 
 ## sorted: True
 
@@ -15,4 +15,5 @@
 1. # Learn [`here`](./https§§§www.kaggle.com§learn/readme.md) :footprints:
 1. # python [`here`](./https§§§www.kaggle.com§learn§python/readme.md) :green_heart:
 1. # pandas [`here`](./https§§§www.kaggle.com§learn§pandas/readme.md) :green_heart:
-1. # <https§§§www.kaggle.com§learn§intro-to-sql> [`here`](./https§§§www.kaggle.com§learn§intro-to-sql/readme.md) :footprints:
+1. # https://www.kaggle.com/learn/intro-to-sql [`here`](./https§§§www.kaggle.com§learn§intro-to-sql/readme.md) :footprints:
+1. # <https§§§www.kaggle.com§learn§advanced-sql> [`here`](./https§§§www.kaggle.com§learn§advanced-sql/readme.md) :footprints:
